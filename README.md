@@ -1,4 +1,7 @@
-# api documentation for  [react-native-svg (v5.1.7)](https://github.com/magicismight/react-native-svg#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-svg.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-svg) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-svg.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-svg)
+# npmdoc-react-native-svg
+
+#### basic api documentation for  [react-native-svg (v5.1.7)](https://github.com/magicismight/react-native-svg#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-svg.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-svg) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-svg.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-svg)
+
 #### SVG library for react-native
 
 [![NPM](https://nodei.co/npm/react-native-svg.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-svg)
@@ -72,7 +75,8 @@
     "scripts": {
         "lint": "eslint ./"
     },
-    "version": "5.1.7"
+    "version": "5.1.7",
+    "bin": {}
 }
 ```
 
